@@ -34,7 +34,7 @@ h1 {
 }
 
 h2 {
-    font-size: 36px;
+    font-size: 30px;
 }
 
 h3 {
@@ -42,7 +42,7 @@ h3 {
 }
 
 h4 {
-    font-size: 26px;
+    font-size: 22px;
 }
 
 h5 {
@@ -146,7 +146,7 @@ input[type="radio"], input[type="checkbox"]{
     width: auto;
 }
 
-input:focus, textrea:focus {
+input:focus, textarea:focus {
     border: 3px solid #49bf9d;
     outline: none;
 }
@@ -155,7 +155,7 @@ textarea {
     height: 10em;
 }
 
-.button-defalt {
+.button-default {
     background-color: #49bf9d;
     border: 3px solid #49bf9d;
     color: white;
